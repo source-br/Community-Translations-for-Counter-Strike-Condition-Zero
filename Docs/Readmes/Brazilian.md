@@ -13,7 +13,7 @@
 ![Title](../img/logos/title.png)
 
 [![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-26355b.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
-[![Documentação](https://img.shields.io/badge/Documentação-Wiki-26355b.svg)](../PT-BR/Documentação.md)
+[![Documentação](https://img.shields.io/badge/Documentação-Wiki-26355b.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
 [![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-26355b.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Brazilian.zip)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Servidor%20do%20Discord&color=26355b)](https://discord.gg/tVNv6SNZZT)
 
@@ -24,14 +24,14 @@
 > [!WARNING]
 > Este repositório faz parte das [**`Traduções Comunitárias à GoldSrc`**](https://github.com/source-br/Community-Translations-for-GoldSrc). Ele foi pensado para ser usado como submódulo do repositório central do projeto no qual deve ser usado para gerenciar esse repositório.
 
-Esse projeto tem como objetivo traduzir as texturas, interface e os textos de **Counter-Strike: Condition Zero** para outros idiomas que não possuem uma tradução oficial, de maneira comunitária, de fã para fã.
+Esse projeto tem como objetivo dublar, traduzir as texturas, interface e os textos de **Counter-Strike: Condition Zero** para outros idiomas que não possuem uma tradução oficial, de maneira comunitária, de fã para fã.
 
 Essas traduções são feitas pela comunidade, este repositório agrega as texturas maneira editável `.psd`. Os textos e a interface estão no repositório de Traduções Comunitárias à GoldSrc.
 
 - [Sobre as traduções](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
 
 ## Traduções disponíveis
-- 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Brazilian.zip)
+- 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Deleted-Scenes-Brazilian.zip)
 ## Como colaborarar
 
 * [Documentação](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
