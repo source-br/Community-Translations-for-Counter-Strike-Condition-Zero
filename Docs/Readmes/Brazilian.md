@@ -31,7 +31,7 @@ Essas traduções são feitas pela comunidade, este repositório agrega as textu
 - [Sobre as traduções](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
 
 ## Traduções disponíveis
-- 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Deleted-Scenes-Brazilian.zip)
+- 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Counter-Strike-Condition-Zero-Brazilian.zip)
 ## Como colaborarar
 
 * [Documentação](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
